@@ -7,7 +7,7 @@ function Education() {
                     <ul className="list-unstyled">
                         <li>
                             <h6 className="fw-bold">SAIT / Diploma of Software development / 2021- </h6>
-                            <p>• Capstone Project: (Design Phase) A Project on FOOD ORDERING SYSTEM</p>
+                            <p>• Capstone Project: (Design Phase) A Project on Food Ordering System: Calgary Banchan</p>
                         </li>
                         <li>
                             <h6 className="fw-bold">UNIV. OF DONGGUK GRADUATE SCHOOL OF INTERNATIONAL AFFAIRS AND INFORMATION SECURITY / Master´s degree (Information Security) / 2002-2005</h6>
