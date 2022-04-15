@@ -6,30 +6,28 @@ function TechnologySummary() {
                     <h2 className="card-title">Technology Summary</h2>
                     <ul className="list-unstyled">
                         <li>
-                            <h6 className="fw-bold">Senior Web Developer / Digital Agency 2016-2020</h6>
-                            <p>Phasellus et tellus iaculis, interdum augue vel, luctus nulla. Aenean viverra,
-                                magna
-                                a
-                                ultricies
-                                elementum, dui mi tristique ligula, non euismod leo mauris ac metus.</p>
+                            <h6 className="fw-bold">EDI Specialist and SW Solution Developer / Over 15 years </h6>
+                            <p>• Developing XML/Java-based B2Bi(EDI) SW based on UNIX, Windows system</p>
+                            <p>• Programming of Java, UNIX/C, Oracle well as Communication programming with SOAP, ebMS, TCP/IP</p>
+                            <p>• Web-base programming : Java/CSS/JavaScript/JSON/JDBC/JPA/React(Visual Studio, Node.js)/HTML5/AJAX</p>
                         </li>
                         <li>
-                            <h6 className="fw-bold">Web Developer / Big Firm 2010-2015</h6>
-                            <p>Mauris volutpat, ex condimentum fringilla imperdiet, nulla turpis semper diam, ac
-                                semper
-                                risus urna quis
-                                libero. Fusce non nunc quam. Ut vulputate, magna eget molestie luctus, elit est
-                                posuere
-                                lorem, quis
-                                dapibus dolor felis id mi.</p>
+                            <h6 className="fw-bold">Project Manager / Over 10 years </h6>
+                            <p>• Implementing KIDI e-Cargo insurance relay system, KFTC(banking), and KTNet(trade) Center Trade EDI System</p>
+                            <p>• HANJIN Shipping New Information System of US, Europe, and Asia branch and Seoul Hub</p>
+                            <p>• Samsung SDS S*NET EDI center system for 28 sibling companies</p>
                         </li>
                         <li>
-                            <h6 className="fw-bold">Junior Web Developer / Websites 'R' Us 2004-2009</h6>
-                            <p>Sed eu turpis placerat, posuere odio a, viverra velit. Pellentesque habitant
-                                morbi
-                                tristique
-                                senectus et
-                                netus et malesuada fames ac turpis egestas.</p>
+                            <h6 className="fw-bold">SW solution architect/Pre-sale SE / Over 10 years</h6>
+                            <p>• Designing Oracle(ex. SUN Korea) solution architecture, sizing and configuring the system</p>
+                            <p>• Proposal, demonstrating pilot/PoC system, presentation for Oracle Enterprise Application</p>
+                            <p>• Pre-sales for XML-based B2Bi Trade/Logistics/Banking System(e-LC, e-Nego, e-Cargo, etc)</p>
+                        </li>
+                        <li>
+                            <h6 className="fw-bold">Information System Auditor / 7 years</h6>
+                            <p>• Introducing appropriate oversight, management, and guidance to perform the successful completion of the IT project</p>
+                            <p>• Executing effective and efficient meetings engaging stakeholders, a user, and the IT team</p>
+                            <p>• Coordinating for proactively managing milestone and project resources on time, on budget, and within the scope</p>
                         </li>
                     </ul>
                 </div>

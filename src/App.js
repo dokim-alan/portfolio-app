@@ -20,11 +20,11 @@ function App() {
                         <Education />
                     </div>
                 </div>
-                <div className="row mt-3">
+               <div className="row mt-3">
                     <div className="col-md mb-5">
                         <TechnologySummary />
                     </div>
-                </div>
+                </div> 
             </main>
         </div>
     );
